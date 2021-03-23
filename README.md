@@ -1,2 +1,6 @@
 # modul-226a
-RobiGames
+RobiGames Hausaufgabe
+
+
+-liste mit Highscore
+-namens abfrage am anfang
